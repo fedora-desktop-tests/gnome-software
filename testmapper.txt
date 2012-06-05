@@ -1,0 +1,2 @@
+#Testname , Relative workdir under component, Command and args , Pkg Dependencies
+startViaCommand, ., ./runtest.sh start_via_command, 
